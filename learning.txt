@@ -1,2 +1,7 @@
 learning.txt
-Added goal list
+
+What I have learned from this course
+
+i learn to use Github as software used in coding , asana and trello to manage,
+organise and tasks priotrisation
+and i also learned how to make and start a business
