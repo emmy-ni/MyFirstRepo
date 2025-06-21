@@ -1,7 +1,5 @@
-learning.txt
 
-What I have learned from this course
-
-i learn to use Github as software used in coding , asana and trello to manage,
-organise and tasks priotrisation
-and i also learned how to make and start a business
+Create my first repository in GitHub.
+Explain the importance of README files.
+Manage files within my repository, using GitHub’s interface.
+Manage my repositories and streamline collaboration
