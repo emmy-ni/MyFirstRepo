@@ -1,2 +1,2 @@
-What I have learned so far in this course is how to create and manage Git repositories, work with branches, and collaborate using pull requests.
+What I have learned from this course is how to create and manage Git repositories, work with branches, and collaborate using pull requests. These skills have helped me understand version control and teamwork in software development.
 
